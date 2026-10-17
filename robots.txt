@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://josegunda-pixel.github.io/no-puedo-bajar-el-canape/sitemap.xml
